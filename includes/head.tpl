@@ -9,8 +9,15 @@
 <!-- jQuery -->
 <script src="{$BASE_PATH_JS}/jquery.min.js"></script>
 
+<script src="{$WEB_ROOT}/templates/{$template}/js/jquery.js"></script>
+<script src="{$WEB_ROOT}/templates/{$template}/js/jquery_ui.js"></script>
+
+
 <!-- Custom Styling -->
 <link rel="stylesheet" href="{$WEB_ROOT}/templates/{$template}/css/custom.css">
+
+<!-- WhaNew Custom Styling -->
+<link rel="stylesheet" href="{$WEB_ROOT}/templates/{$template}/css/main.css">
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

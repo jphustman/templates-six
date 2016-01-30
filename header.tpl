@@ -15,6 +15,28 @@
 
 {$headeroutput}
 
+  <div id="top">
+    <div class="wrapper shapes"></div>
+  </div>
+
+  <div id="nav">
+    <div class="wrapper">
+      <a href="home.html">
+      	      	<div id="logo" style="background-image:url(_assets/_img/logo.png);background-size: contain;">
+      	</div>
+      </a>
+
+      <div class="smallButton">
+        Client Area
+      </div>
+    <ul class="navigation"><li class="selected"><a href="home.html">Home</a></li><li><a href="hosting.html">Hosting</a></li><li><a href="vps.html">VPS</a></li><li><a href="about.html">About</a></li><li><a href="blog.html">Blog</a></li></ul>    </div>
+  </div>
+
+
+
+
+<!-- Original Header -->
+
 <section id="header">
     <div class="container">
 
@@ -97,6 +119,8 @@
 
     </div>
 </section>
+
+<!-- /Original Header -->
 
 <section id="main-menu">
 
